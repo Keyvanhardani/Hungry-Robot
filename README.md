@@ -17,7 +17,7 @@ Stellen Sie sicher, dass Sie den Servomotor, den Sensor und die LEDs korrekt mit
 ## Software-Anforderungen
 
 - MicroPython Firmware für ESP32
-- Ein Code-Editor wie Thonny oder Mu, um den Python-Code zu bearbeiten und auf den ESP32 hochzuladen
+- Ein Code-Editor wie Vscode, um den Python-Code zu bearbeiten und auf den ESP32 hochzuladen
 
 ## Installation und Einrichtung
 
