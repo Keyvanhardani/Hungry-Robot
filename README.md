@@ -39,7 +39,7 @@ Dieses Projekt ist unter [MIT Lizenz](LICENSE) lizenziert.
 
 ## Kontakt
 
-Für weitere Informationen oder bei Fragen wenden Sie sich bitte an [Ihre Kontaktinformation].
+Für weitere Informationen oder bei Fragen hinterlassen Sie bitte eine Nachricht.
 
 ---
 **Viel Spaß beim Bauen und Experimentieren mit Ihrem Hungry Robot!**
